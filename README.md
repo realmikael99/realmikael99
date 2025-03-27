@@ -1,4 +1,4 @@
-# Hi there, my name is Michael Angelo Berja. 👋
+# Hi there, I'm MIKAEL. 👋
 
 🎓 Upcoming BS in Computer Engineering graduate from **University of Nueva Caceres**  
 💻 Passionate about software development and technology  

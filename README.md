@@ -22,7 +22,7 @@
 - [QR Code Generator](https://github.com/realmikael99/QR_Code) - A customizable QR code generator with history tracking
 
 ## 🌟 Interests & Hobbies
-- 🎮 Video Games (Favorite games: Borderlands, Resident Evil, World War Z)
+- 🎮 Video Games (Favorite games: Borderlands, Resident Evil, World War Z, etc.)
 - 🖥️ Computer Assembly & Repair (PCs/laptops)
 - 🏀 Basketball
 - 🚶 Jogging/Walking

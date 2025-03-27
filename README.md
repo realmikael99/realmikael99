@@ -23,6 +23,7 @@
 
 ## 🌟 Interests & Hobbies
 - 🎮 Video Games (Favorite games: Borderlands, Resident Evil, World War Z)
+- 🖥️ Computer Assembly & Repair (PCs/laptops)
 - 🏀 Basketball
 - 🚶 Jogging/Walking
 - 📚 Continuous Learning

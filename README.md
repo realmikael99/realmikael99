@@ -1,6 +1,6 @@
 # Hi there, I'm MIKAEL. 👋
 
-🎓 Upcoming BS in Computer Engineering graduate from **University of Nueva Caceres**  
+🎓 Upcoming BS in Computer Engineering graduate
 💻 Passionate about software development and technology  
 🌱 Currently expanding my knowledge in mobile and web development  
 

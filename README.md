@@ -1,4 +1,4 @@
-# Hi there, Michael Angelo Berja 👋
+# Hi there, my name is Michael Angelo Berja 👋
 
 🎓 Upcoming BS in Computer Engineering graduate from **University of Nueva Caceres**  
 💻 Passionate about software development and technology  
@@ -19,7 +19,7 @@
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ## 🏆 Projects & Achievements
-- [QR Code Generator](#) - A customizable QR code generator with history tracking
+- [QR Code Generator](https://github.com/realmikael99/QR_Code) - A customizable QR code generator with history tracking
 
 ## 🌟 Interests & Hobbies
 - 🎮 Video Games (Favorite games: Borderlands, Resident Evil, World War Z)
